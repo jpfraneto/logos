@@ -1,0 +1,20 @@
+.DS_Store
+DerivedData*/
+build/
+.claude/
+.env
+.env.*
+!.env.example
+Config/Local.xcconfig
+*.xcarchive/
+*.ipa
+*.dSYM/
+*.xcresult/
+*.xcuserstate
+xcuserdata/
+*.p8
+*.p12
+*.mobileprovision
+
+# Legacy workspace left by the app rename.
+TenorPractice.xcodeproj/
